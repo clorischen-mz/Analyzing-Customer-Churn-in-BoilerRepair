@@ -1,4 +1,4 @@
-# Analyzing Customer Churn in TeleBoiler using Power BI
+# Customer Churn Analysis for TeleBoiler using Power BI
 Reducing customer churn is a top priority at TeleBoiler (a fictitious satellite TV provider), as it's easier to retain current customers than to draw new customers. This project sought to provide insights into why customers are churning from TeleBoiler at the rate they are, the key characteristics of churners, and potential actions to be taken to retain customers.
 
 ## Overview
