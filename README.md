@@ -1,2 +1,3 @@
 Analyzing customer churn in Power BI
-![image](https://github.com/user-attachments/assets/18de5ed4-ac09-4042-bfce-51d91b52852f)
+
+![image](https://github.com/user-attachments/assets/e0139980-be8b-4314-8cc8-d7ca09f75140)
